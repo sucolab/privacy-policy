@@ -87,6 +87,32 @@ Google のプライバシーポリシー：
 
 <http://www.google.com/intl/ja/policies/privacy/>
 
+### Wicle
+
+本サービスでは、利用者のログデータを把握するために株式会社プレイド（以下「プレイド社」といいます。）のサービスである Wicle を利用しています。Wicle の利用にはログデータの収集のために運営会社が発行する Cookie を使用しています。ログデータはプレイド社により収集された後、分析処理がなされ、運営会社に送信されます。このログデータは匿名で収集されており、特定の個人を識別する情報は一切含まれません。
+
+Wicle はプレイド社が提供するプロダクト「KARTE」の一部機能を用いており、利用にあたり、機能元である KARTE の利用規約・プライバシーポリシーを参照します。
+
+プレイド社は、プレイド社の利用規約及びプライバシーポリシーに基づいて当該ログデータを管理します。この機能はオプトアウト手段（<https://karte.io/optout/>）(※上記と同様の理由により「KARTE」のオプトアウト手段と同様となっております。)により、収集と利用を拒否することができます。
+
+Wicle の規約についての詳細については、以下のページをご確認ください
+
+KARTE の利用規約：
+
+<https://karte.io/legal/terms-of-use.html>
+
+KARTE Live（動画機能）に関する利用規約：
+
+<https://karte.io/legal/terms-of-live.html>
+
+KARTE β 機能に関するトライアル利用規約：
+
+<https://karte.io/legal/terms-of-use-beta.html>
+
+KARTE に関するプライバシーポリシー：
+
+<https://karte.io/karte-policy.html>
+
 ### Datadog
 
 本サービスでは、利用に伴う匿名化されたシステムログデータを取得するため Datadog,
@@ -106,7 +132,7 @@ Datadog のプライバシーポリシー：
 
 ### Sentry
 
-本サービスでは、 利用に伴うエラーログデータを収集するために Functional
+本サービスでは、利用に伴うエラーログデータを収集するために Functional
 Software,
 Inc.(以下「Sentry 社」といいます。)が提供するエラー情報監視サービスである Sentry を利用しています。
 
@@ -122,6 +148,29 @@ Sentry のプライバシーポリシー：
 
 <https://sentry.io/privacy/>
 
+### Algolia Search 及び Algolia Recommend
+
+本サービスでは、検索機能を提供するために Algolia, Inc.
+(以下「Algolia 社」といいます。)が提供する検索サービスである Algolia
+Search 及び Algolia Recommend
+(以下総称して「Algolia」といいます。)を利用しています。本機能のため利用に伴う、利用者の検索ログデータを運営会社が収集し、Algolia 社に提供します。このログデータは匿名で収集されており、特定の個人を識別する情報は一切含まれません。
+
+また、Algolia 社は、Algolia の利用規約及びプライバシーポリシーに基づいて当該ログデータを管理します。
+
+Algolia の規約についての詳細、Algolia のセキュリティについては、以下のページをご確認ください
+
+Algolia の利用規約：
+
+<https://www.algolia.com/policies/terms/>
+
+Algolia のプライバシーポリシー：
+
+<https://www.algolia.com/policies/privacy/>
+
+Algolia のセキュリティ：
+
+<https://www.algolia.com/distributed-secure/security-compliance/>
+
 ## 第 11 条 プライバシー
 
 運営会社は、第三者による個人情報の取り扱いに関し、次に掲げる場合には一切の責任を負いません。
@@ -129,6 +178,25 @@ Sentry のプライバシーポリシー：
 1. 利用者が、本サービスの機能または別の手段を用いて第三者に個人情報を明らかにした場合
 2. 第三者が、外部の手段を用いて取得した利用者の個人情報を本サービスの機能を用いて明らかにした場合
 
-## 第 12 条 改定
+## 第 12 条 お問い合わせ
+
+当社の本プライバシーポリシーに関するお問い合わせは、下記までお願い致します。
+
+株式会社 luco
+
+〒 150-0001
+
+東京都渋谷区神宮前 6-23-4 桑野ビル 2 階
+
+Mail: <policy-info@luco.co.jp>
+
+## 第 13 条 改定
 
 運営会社は、本プライバシーポリシーについて、事前に利用者へ適切な周知を行うことで、利用者の同意を得ず、改定できるものとします。
+
+<div style="text-align: right;">
+2022 年 7 月 1 日 改定
+
+2021 年 12 月 12 日 制定
+
+</div>
