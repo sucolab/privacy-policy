@@ -106,11 +106,11 @@ Google Analytics の規約についての詳細は、以下のページをご確
 
 Google Analytics の利用規約：
 
-<https://www.google.com/analytics/terms/jp.html>
+[https://www.google.com/analytics/terms/jp.html](https://www.google.com/analytics/terms/jp.html)
 
 Google のプライバシーポリシー：
 
-<http://www.google.com/intl/ja/policies/privacy/>
+[http://www.google.com/intl/ja/policies/privacy/](http://www.google.com/intl/ja/policies/privacy/)
 
 ### YouTube API サービスの利用
 
@@ -122,17 +122,17 @@ YouTube API の規約についての詳細は、以下のページをご確認�
 
 Google のプライバシーポリシー：
 
-<https://www.google.com/intl/ja/policies/privacy/>
+[https://www.google.com/intl/ja/policies/privacy/](https://www.google.com/intl/ja/policies/privacy/)
 
 YouTube の利用規約：
 
-<https://www.youtube.com/t/terms>
+[https://www.youtube.com/t/terms](https://www.youtube.com/t/terms)
 
 
 YouTube API サービス利用規約：
-<https://developers.google.com/youtube/terms/api-services-terms-of-service>
+[https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service)
 
-また、利用者は Google セキュリティ設定ページ（<https://security.google.com/settings/security/permissions>）から本サービスへのアクセス権を削除することで、本サービスによる利用者の Google アカウント及び YouTubeAPI サービスへの接続を無効にすることができます。
+また、利用者は Google セキュリティ設定ページ（[https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions)）から本サービスへのアクセス権を削除することで、本サービスによる利用者の Google アカウント及び YouTubeAPI サービスへの接続を無効にすることができます。
 ただしこれらの場合、本サービスの一部の機能が使用できなくなる、または一部のページが正しく表示されなくなる場合があることをあらかじめご了承ください。
 
 ### Wicle
@@ -141,25 +141,25 @@ YouTube API サービス利用規約：
 
 Wicle はプレイド社が提供するプロダクト「KARTE」の一部機能を用いており、利用にあたり、機能元である KARTE の利用規約・プライバシーポリシーを参照します。
 
-プレイド社は、プレイド社の利用規約及びプライバシーポリシーに基づいて当該ログデータを管理します。この機能はオプトアウト手段（<https://karte.io/optout/>）(※上記と同様の理由により「KARTE」のオプトアウト手段と同様となっております。)により、収集と利用を拒否することができます。
+プレイド社は、プレイド社の利用規約及びプライバシーポリシーに基づいて当該ログデータを管理します。この機能はオプトアウト手段（[https://karte.io/optout/](https://karte.io/optout/)）(※上記と同様の理由により「KARTE」のオプトアウト手段と同様となっております。)により、収集と利用を拒否することができます。
 
 Wicle の規約についての詳細は、以下のページをご確認ください
 
 KARTE の利用規約：
 
-<https://karte.io/legal/terms-of-use.html>
+[https://karte.io/legal/terms-of-use.html](https://karte.io/legal/terms-of-use.html)
 
 KARTE Live（動画機能）に関する利用規約：
 
-<https://karte.io/legal/terms-of-live.html>
+[https://karte.io/legal/terms-of-live.html](https://karte.io/legal/terms-of-live.html)
 
 KARTE β 機能に関するトライアル利用規約：
 
-<https://karte.io/legal/terms-of-use-beta.html>
+[https://karte.io/legal/terms-of-use-beta.html](https://karte.io/legal/terms-of-use-beta.html)
 
 KARTE に関するプライバシーポリシー：
 
-<https://karte.io/karte-policy.html>
+[https://karte.io/karte-policy.html](https://karte.io/karte-policy.html)
 
 ### Sentry
 
@@ -173,11 +173,11 @@ Sentry の規約についての詳細は、以下のページをご確認くだ�
 
 Sentry の利用規約：
 
-<https://sentry.io/terms/>
+[https://sentry.io/terms/](https://sentry.io/terms/)
 
 Sentry のプライバシーポリシー：
 
-<https://sentry.io/privacy/>
+[https://sentry.io/privacy/](https://sentry.io/privacy/)
 
 
 ### NewRelic
@@ -192,11 +192,11 @@ NewRelicの規約についての詳細は、以下のページをご確認くだ
 
 NewRelicの利用規約：
 
-<https://newrelic.com/termsandconditions/terms>
+[https://newrelic.com/termsandconditions/terms](https://newrelic.com/termsandconditions/terms)
 
 NewRelicのプライバシーポリシー：
 
-<https://newrelic.com/termsandconditions/privacy>
+[https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy)
 
 
 ### Algolia
@@ -208,15 +208,15 @@ Algoliaの規約についての詳細、Algoliaのセキュリティについて
 
 Algolia の利用規約：
 
-<https://www.algolia.com/policies/terms/>
+[https://www.algolia.com/policies/terms/](https://www.algolia.com/policies/terms/)
 
 Algolia のプライバシーポリシー：
 
-<https://www.algolia.com/policies/privacy/>
+[https://www.algolia.com/policies/privacy/](https://www.algolia.com/policies/privacy/)
 
 Algolia のセキュリティ：
 
-<https://www.algolia.com/distributed-secure/security-compliance/>
+[https://www.algolia.com/distributed-secure/security-compliance/](https://www.algolia.com/distributed-secure/security-compliance/)
 
 2.  個人情報の提供
     運営会社は以下の情報収集モジュールにより、各情報収集モジュール提供者（日本国外にある者を含みます。）への利用者の個人情報の提供を行います。当該個人情報は本サービスの機能提供と利便性向上、効果測定、分析等を目的とするもので、それ以外の目的で使用されることはありません。
@@ -230,10 +230,10 @@ Algolia のセキュリティ：
 SendGridの規約についての詳細は、以下のページをご確認ください
 
 SendGridの利用規約
-<https://sendgrid.kke.co.jp/terms/>
+[https://sendgrid.kke.co.jp/terms/](https://sendgrid.kke.co.jp/terms/)
 
 SendGridのプライバシーポリシー
-<https://sendgrid.kke.co.jp/privacypolicy/>
+[https://sendgrid.kke.co.jp/privacypolicy/](https://sendgrid.kke.co.jp/privacypolicy/)
 
 ### GMOペイメントゲートウェイ
 
@@ -245,7 +245,7 @@ GMOペイメントゲートウェイの規約についての詳細は、下記�
 
 GMOペイメントゲートウェイの個人情報等の取り扱いについて：
 
-<https://www.gmo-pg.com/security-compliance/handling/>
+[https://www.gmo-pg.com/security-compliance/handling/](https://www.gmo-pg.com/security-compliance/handling/)
 
 
 ### Google 拡張コンバージョン
@@ -258,11 +258,11 @@ Google 拡張コンバージョンの規約・詳細は、下記サイトをご�
 
 Google による拡張コンバージョン データの使用について
 
-<https://support.google.com/adspolicy/answer/9755941?hl=ja>
+[https://support.google.com/adspolicy/answer/9755941?hl=ja](https://support.google.com/adspolicy/answer/9755941?hl=ja)
 
 Google プライバシーポリシー
 
-<https://policies.google.com/privacy?hl=ja>
+[https://policies.google.com/privacy?hl=ja](https://policies.google.com/privacy?hl=ja)
 
 
 ### Twitter コンバージョントラッキング
@@ -275,15 +275,15 @@ Twitter コンバージョントラッキングの規約・詳細は、下記サ
 
 コンバージョントラッキングとカスタムオーディエンスに関するポリシー
 
-<https://business.twitter.com/ja/help/ads-policies/campaign-considerations/policies-for-conversion-tracking-and-custom-audiences.html>
+[https://business.twitter.com/ja/help/ads-policies/campaign-considerations/policies-for-conversion-tracking-and-custom-audiences.html](https://business.twitter.com/ja/help/ads-policies/campaign-considerations/policies-for-conversion-tracking-and-custom-audiences.html)
 
 Twitter プライバシーポリシー
 
-<https://twitter.com/ja/privacy>
+[https://twitter.com/ja/privacy](https://twitter.com/ja/privacy)
 
 パーソナライズド広告のプライバシー制限
 
-<https://help.twitter.com/ja/safety-and-security/privacy-controls-for-tailored-ads>
+[https://help.twitter.com/ja/safety-and-security/privacy-controls-for-tailored-ads](https://help.twitter.com/ja/safety-and-security/privacy-controls-for-tailored-ads)
 
 ## 第 12 条 プライバシー
 
@@ -302,7 +302,7 @@ Twitter プライバシーポリシー
 
 東京都渋谷区鶯谷町19-19 第３叶ビル203
 
-Mail: <policy-info@luco.co.jp>
+Mail: policy-info@luco.co.jp
 
 ## 第 14 条 改定
 
