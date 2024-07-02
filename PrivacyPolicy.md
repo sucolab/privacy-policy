@@ -310,7 +310,7 @@ Mail: policy-info@luco.co.jp
 
 <div style="text-align: right;">
 
-2024 年 5 月 1 日 改定
+2024 年 7 月 2 日 改定
 
 2024 年 2 月 29 日 改定
 
